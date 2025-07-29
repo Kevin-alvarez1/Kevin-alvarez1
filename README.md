@@ -1,5 +1,11 @@
 ## Hi my name is Kevin
+<br>
 
+- 🐷 I’m  currently studying the seventh semester of systems engineering 🦖
+
+- ⏳ How to reach me **alvareskevin2003@gmail.com** 🧐
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -33,12 +39,12 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> </a> </p>
 
 <br>
-
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-alvarez1&theme=tokyonight) 
+<br>
+<br>
+
+![Github Stars](https://github-readme-stats.vercel.app/api?username=Kevin-alvarez1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+<br>
+
